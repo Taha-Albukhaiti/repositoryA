@@ -1,3 +1,4 @@
+
 package de.thluebeck.schulung;
 
 import java.io.IOException;
